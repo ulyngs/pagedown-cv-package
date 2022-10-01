@@ -1,6 +1,6 @@
 #' Publication entries from Ulrik Lyngs' CV
 #'
-#' @format A tibble with 129 rows and 24 variables:
+#' @format A tibble with 26 rows and 30 variables:
 #' \describe{
 #'   \item{type}{chr The type of publication: journal article, workshop paper, conference paper, etc.}
 #'   \item{authors}{chr The authors}
